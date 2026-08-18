@@ -1,0 +1,6 @@
+{
+  "name": "Maa Durga Guest Inn - Old Digha",
+  "description": "Comfortable, safe, and affordable hotel stay near Old Digha sea beach with AC/Non-AC rooms, Bengali dining, and 24/7 CCTV surveillance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
